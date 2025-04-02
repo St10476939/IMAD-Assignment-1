@@ -6,3 +6,5 @@ This app i created will make it easire for the user to get suggested meals for B
 ![Screenshot 2](https://github.com/user-attachments/assets/8aa7cb0e-2602-45d9-b917-6415c40a245e)
 ##Resporitory link:
 https://github.com/St10476939/IMAD-Assignment-1
+## Youtube video link
+https://youtube.com/shorts/kzKP9GJrF8g?si=5mddmauH7LhZoxoG
